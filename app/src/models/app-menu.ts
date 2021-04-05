@@ -21,7 +21,7 @@ interface IBaseMenuItem {
   readonly visible: boolean
   readonly label: string
 }
-
+/*Editing typescript and adding a commit*/
 /**
  * An interface describing the properties of a 'normal'
  * menu item, i.e. a clickable item with a label but no
