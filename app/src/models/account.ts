@@ -22,6 +22,7 @@ export class Account {
    * @param id The GitHub.com or GitHub Enterprise database id for this account.
    * @param name The friendly name associated with this account
    */
+   /*Editing tyescript file*/
   public constructor(
     public readonly login: string,
     public readonly endpoint: string,
