@@ -14,7 +14,9 @@ export enum BranchType {
 export interface IAheadBehind {
   readonly ahead: number
   readonly behind: number
-}
+  }
+
+/* Adding random commit by charan*/
 
 /** The result of comparing two refs in a repository. */
 export interface ICompareResult extends IAheadBehind {
