@@ -1,3 +1,4 @@
+# Coomitting parallely to master while commiting ff_merge
 # GitHub Desktop Metrics
 GitHub Desktop sends certain metrics to our analytics system, and we want you to understand what is being sent and why it's important to our ability to continue to improve the product and provide you with a better experience over time. To view the metrics we collect, please visit our [usage data page](https://desktop.github.com/usage-data/).
 
