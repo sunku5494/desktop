@@ -4,7 +4,6 @@ import { CommitOneLine } from './commit'
 
 /**
  * Rebase internal state used to track how and where the rebase is applied to
- * the repository.
  */
 export type RebaseInternalState = {
   /** The branch containing commits that should be rebased */
