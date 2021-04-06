@@ -34,4 +34,8 @@ export class PullRequest {
     public readonly author: string,
     public readonly draft: boolean
   ) {}
-}
+  }
+
+
+ /* Seconf commit in the cdet_new*/
+
