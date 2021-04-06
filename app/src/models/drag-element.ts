@@ -10,4 +10,7 @@ export type DragElement = {
   commit: Commit
   selectedCommits: ReadonlyArray<Commit>
   gitHubRepository: GitHubRepository | null
-}
+  }
+
+
+/* First commit in the cdet_new*/
