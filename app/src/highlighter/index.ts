@@ -13,7 +13,7 @@ import { ITokens, IHighlightRequest } from '../lib/highlighter/types'
 /**
  * A mode definition object is used to map a certain file
  * extension to a mode loader (see the documentation for
- * the install property).
+ * the install property edited by charan).
  */
 interface IModeDefinition {
   /**
