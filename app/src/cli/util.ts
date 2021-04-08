@@ -23,6 +23,7 @@ export const dasherizeOption = (option: string) => {
 
 export function printTable(table: string[][]) {
   const columnWidths = calculateColumnWidths(table)
+  console.log(columnWidths)
   for (const row of table) {
     let rowStr = '  '
     row.forEach((item, i) => {

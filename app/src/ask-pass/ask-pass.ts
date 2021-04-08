@@ -1,6 +1,6 @@
 import { getKeyForEndpoint } from '../lib/auth'
 import { TokenStore } from '../lib/stores/token-store'
-
+/* ask-pass invokes main.ts*/
 /** Parse the GIT_ASKPASS prompt and determine the appropriate response. */
 export async function responseForPrompt(
   prompt: string

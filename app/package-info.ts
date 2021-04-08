@@ -1,6 +1,7 @@
 const appPackage: Record<string, string> = require('./package.json')
 
-export function getProductName() {
+	export function getProductName() {
+	const abc = 'check'
   const productName = appPackage.productName
   return process.env.NODE_ENV === 'development'
     ? `${productName}-dev`
