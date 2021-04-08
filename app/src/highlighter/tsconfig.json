@@ -14,5 +14,6 @@
     "lib": ["scripthost", "webworker", "es2017"],
     "types": []
   },
-  "compileOnSave": false
+  "compileOnSave": false,
+  "test": true
 }
