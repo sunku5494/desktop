@@ -4,6 +4,7 @@ export function openDesktop(url: string = '') {
   const env = { ...process.env }
   // NB: We're gonna launch Desktop and we definitely don't want to carry over
   // `ELECTRON_RUN_AS_NODE`. This seems to only happen on Windows.
+  //Adding child process using this file
   delete env['ELECTRON_RUN_AS_NODE']
 
   url = 'x-github-client://' + url
