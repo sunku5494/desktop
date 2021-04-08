@@ -5,7 +5,6 @@ declare namespace CodeMirror {
     /** How many spaces a block (whatever that means in the edited language) should be indented. The default is 2. */
     indentUnit?: number
 
-    /** The width of a tab character. Defaults to 4. */
     tabSize?: number
   }
 
