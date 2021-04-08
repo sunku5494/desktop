@@ -1,6 +1,7 @@
 /**
  * This will be run by the `ask-pass-trampoline`.
  */
+ /* Editing the main.ts in check branch*/
 
 import { responseForPrompt } from './ask-pass'
 
