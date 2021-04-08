@@ -45,7 +45,6 @@ declare namespace CodeMirror {
      */
     indent?: (state: T, textAfter: string) => number
 
-    /** The four below strings are used for working with the commenting addon. */
     /**
      * String that starts a line comment.
      */
