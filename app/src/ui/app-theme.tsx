@@ -21,6 +21,7 @@ interface IAppThemeProps {
  * purely (a)busing the component lifecycle to manipulate the
  * body class list.
  */
+/* Do merge the changes in to master and continue development */
 export class AppTheme extends React.PureComponent<IAppThemeProps> {
   public componentDidMount() {
     this.ensureTheme()
