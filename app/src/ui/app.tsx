@@ -139,9 +139,6 @@ import { MoveToApplicationsFolder } from './move-to-applications-folder'
 const MinuteInMilliseconds = 1000 * 60
 const HourInMilliseconds = MinuteInMilliseconds * 60
 
-/**
- * Check for updates every 4 hours
- */
 const UpdateCheckInterval = 4 * HourInMilliseconds
 
 /**
