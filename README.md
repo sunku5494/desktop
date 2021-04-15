@@ -1,5 +1,5 @@
 # [GitHub Desktop](https://desktop.github.com)
-# pushed to my repository
+# pushed to my repository and addedd multiple merges to master from multi-merge
 GitHub Desktop is an open source [Electron](https://www.electronjs.org/)-based
 GitHub app. It is written in [TypeScript](http://www.typescriptlang.org) and
 uses [React](https://reactjs.org/).
