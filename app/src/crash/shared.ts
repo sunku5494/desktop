@@ -3,7 +3,6 @@
  * able to show the main renderer window and errors that happen
  * after that. Launch errors are special in that users aren't
  * even able to interact with the app. We use this information
- * to customize the presentation of the crash process.
  */
 export type ErrorType = 'launch' | 'generic'
 
