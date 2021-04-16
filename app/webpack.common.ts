@@ -14,6 +14,7 @@ if (channel === 'development') {
 }
 
 const outputDir = 'out'
+const outputFile = 'out'
 export const replacements = getReplacements()
 
 const commonConfig: webpack.Configuration = {
