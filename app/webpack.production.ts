@@ -18,7 +18,6 @@ const highlighterConfig = merge({}, common.highlighter, config)
 const rendererConfig = merge({}, common.renderer, config, {
   module: {
     rules: [
-      // This will cause the compiled CSS to be output to a
       // styles.css and a <link rel="stylesheet"> tag to be
       // appended to the index.html HEAD at compile time
       {
